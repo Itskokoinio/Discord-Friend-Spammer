@@ -54,7 +54,7 @@ for proxy3 in readproxy2:
     proxystrip = proxy3.strip('\n')
     workproxy.append(proxystrip)
 
-user = input("Enter the tag (catcha80#0001): ")
+user = input("Enter the tag (𝕜𝕠𝕜𝕠ツメ#0001): ")
 th = input("Thread Amount ->")
 
 for x in range(int(th)):
